@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: For me personally, I am interested in applying data science to biology
+research. For example, in my research lab, I am using data science to track and
+analyze fluorescence in human macrophage cells infected with mycobacterium 
+tuberculosis.
