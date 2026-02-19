@@ -18,3 +18,9 @@ Answer: Merging keeps the full history and context of both branches being
 merged (which includes forks and branches), while rebasing rewrites the 
 history in order to create a single sequence of linear commits (it doesn't 
 include the full history).
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learn more about topics that interest me and 
+relate to my goals for the future. I am taking classes that are more specific
+to my interests this semester.
