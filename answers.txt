@@ -10,3 +10,11 @@ Answer: For me personally, I am interested in applying data science to biology
 research. For example, in my research lab, I am using data science to track and
 analyze fluorescence in human macrophage cells infected with mycobacterium 
 tuberculosis.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps the full history and context of both branches being
+merged (which includes forks and branches), while rebasing rewrites the 
+history in order to create a single sequence of linear commits (it doesn't 
+include the full history).
